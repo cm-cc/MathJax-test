@@ -2,4 +2,4 @@
 
 this is a pi $\pi$
 
-* carlo inside a list $\pi$
+- but inside a list $\pi$ it does not work

@@ -1,5 +1,7 @@
 # MathJax-test
 
+*Now everything works correctly, the hiccups of MathJax seem to be resolved*
+
 This is a greek pi: $\pi$
 
 - but inside a list it does not work: $\pi$
